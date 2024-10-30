@@ -1,0 +1,267 @@
+Inserted brand: BrandA,2024-06-05 03:24:47.53
+Retrieved brand: BrandA,2024-06-05 03:24:47.563
+Updated brand factory address: BrandA,2024-06-05 03:24:47.57
+Retrieved brand: BrandA,2024-06-05 03:24:47.571
+Deleted brand: BrandA,2024-06-05 03:24:47.574
+Retrieved brand: BrandA,2024-06-05 03:24:47.574
+Inserted brand: BrandA,2024-06-05 03:25:44.27
+Retrieved brand: BrandA,2024-06-05 03:25:44.299
+Updated brand factory address: BrandA,2024-06-05 03:25:44.307
+Retrieved brand: BrandA,2024-06-05 03:25:44.308
+Retrieved brand: BrandA,2024-06-05 03:35:09.128
+Updated brand factory address: BrandA,2024-06-05 03:35:09.136
+Retrieved brand: BrandA,2024-06-05 03:35:09.137
+Retrieved brand: BrandA,2024-06-05 03:57:20.132
+Retrieved brand: BrandA,2024-06-05 03:57:20.14
+Retrieved brand: BrandA,2024-06-05 03:58:11.106
+Retrieved brand: BrandA,2024-06-05 03:58:11.114
+Created PetFood: Premium Dog Food,2024-06-05 03:58:11.157
+Created new ingredient: Chicken,2024-06-05 03:58:11.161
+Created new ingredient: Rice,2024-06-05 03:58:11.164
+Created new ingredient: Vegetables,2024-06-05 03:58:11.167
+Associated ingredients with PetFood: PF001,2024-06-05 03:58:11.173
+Created PetFood: Healthy Cat Food,2024-06-05 03:58:11.176
+Created new ingredient: Salmon,2024-06-05 03:58:11.179
+Created new ingredient: Potato,2024-06-05 03:58:11.181
+Created new ingredient: Spinach,2024-06-05 03:58:11.183
+Associated ingredients with PetFood: PF002,2024-06-05 03:58:11.188
+Created PetFood: Deluxe Dog Food,2024-06-05 03:58:11.189
+Associated ingredients with PetFood: PF003,2024-06-05 03:58:11.196
+Deleted PetFood with ID: PF001,2024-06-05 03:58:11.199
+Deleted PetFood with name: Deluxe Dog Food,2024-06-05 03:58:11.202
+Retrieved brand: BrandA,2024-06-05 03:58:11.203
+Retrieved brand: BrandA,2024-06-05 03:59:35.998
+Retrieved brand: BrandA,2024-06-05 03:59:36.006
+Created PetFood: Premium Dog Food,2024-06-05 03:59:36.032
+Associated ingredients with PetFood: PF001,2024-06-05 03:59:36.042
+Created PetFood: Deluxe Dog Food,2024-06-05 03:59:36.071
+Associated ingredients with PetFood: PF003,2024-06-05 03:59:36.078
+Deleted PetFood with ID: PF001,2024-06-05 03:59:36.08
+Retrieved brand: BrandA,2024-06-05 03:59:36.082
+Retrieved brand: BrandA,2024-06-05 04:01:26.735
+Retrieved brand: BrandA,2024-06-05 04:01:26.745
+Retrieved brand: BrandA,2024-06-05 04:01:26.748
+Retrieved brand: BrandA,2024-06-05 04:03:20.758
+Retrieved brand: BrandA,2024-06-05 04:03:20.767
+Retrieved brand: BrandA,2024-06-05 04:03:20.778
+Updated PetFood with ID: PF001,2024-06-05 04:03:20.781
+Updated PetFood with ID: PF002,2024-06-05 04:03:20.797
+Updated PetFood with ID: PF004,2024-06-05 04:03:20.825
+Retrieved brand: BrandA,2024-06-05 04:04:23.871
+Retrieved brand: BrandA,2024-06-05 04:04:23.879
+Retrieved brand: BrandA,2024-06-05 04:04:23.883
+Updated PetFood with ID: PF001,2024-06-05 04:04:23.885
+Updated PetFood with ID: PF002,2024-06-05 04:04:23.886
+Updated PetFood with ID: PF003,2024-06-05 04:04:23.901
+Updated PetFood with ID: PF004,2024-06-05 04:04:23.902
+Retrieved brand: BrandA,2024-06-05 04:10:11.673
+Retrieved brand: BrandA,2024-06-05 04:10:11.681
+Retrieved brand: BrandA,2024-06-05 04:10:11.684
+Updated PetFood with ID: PF001,2024-06-05 04:10:11.686
+Updated PetFood with ID: PF002,2024-06-05 04:10:11.687
+Updated PetFood with ID: PF003,2024-06-05 04:10:11.688
+Updated PetFood with ID: PF004,2024-06-05 04:10:11.689
+Created Fish: Goldfish,2024-06-05 04:10:11.712
+Updated Fish with ID: 1,2024-06-05 04:10:11.716
+Deleted Fish with ID: 1,2024-06-05 04:10:11.723
+Retrieved brand: BrandA,2024-06-05 04:55:15.423
+Retrieved brand: BrandA,2024-06-05 04:55:15.433
+Retrieved brand: BrandA,2024-06-05 04:55:15.436
+Updated PetFood with ID: PF001,2024-06-05 04:55:15.439
+Updated PetFood with ID: PF002,2024-06-05 04:55:15.44
+Updated PetFood with ID: PF003,2024-06-05 04:55:15.441
+Updated PetFood with ID: PF004,2024-06-05 04:55:15.441
+Created Fish: Goldfish,2024-06-05 04:55:15.458
+Updated Fish with ID: 1,2024-06-05 04:55:15.461
+Created ShoppingCart with Code: 1,2024-06-05 04:55:15.475
+Retrieved brand: BrandA,2024-06-05 04:55:15.486
+Retrieved brand: BrandA,2024-06-05 05:03:41.495
+Retrieved brand: BrandA,2024-06-05 05:03:41.505
+Retrieved brand: BrandA,2024-06-05 05:03:41.509
+Updated PetFood with ID: PF001,2024-06-05 05:03:41.512
+Updated PetFood with ID: PF002,2024-06-05 05:03:41.513
+Updated PetFood with ID: PF003,2024-06-05 05:03:41.514
+Updated PetFood with ID: PF004,2024-06-05 05:03:41.514
+Created Fish: Goldfish,2024-06-05 05:03:41.533
+Updated Fish with ID: 1,2024-06-05 05:03:41.535
+Created ShoppingCart with Code: 2,2024-06-05 05:03:41.55
+Retrieved brand: BrandA,2024-06-05 05:03:41.567
+Retrieved brand: BrandA,2024-06-05 05:03:41.594
+Updated ShoppingCart with Code: 1,2024-06-05 05:03:41.599
+Deleted ShoppingCart with Code: 1,2024-06-05 05:03:41.603
+Retrieved brand: BrandA,2024-06-05 05:06:56.815
+Retrieved brand: BrandA,2024-06-05 05:06:56.824
+Retrieved brand: BrandA,2024-06-05 05:06:56.828
+Updated PetFood with ID: PF001,2024-06-05 05:06:56.831
+Updated PetFood with ID: PF002,2024-06-05 05:06:56.832
+Updated PetFood with ID: PF003,2024-06-05 05:06:56.832
+Updated PetFood with ID: PF004,2024-06-05 05:06:56.833
+Created Fish: Goldfish,2024-06-05 05:06:56.85
+Updated Fish with ID: 1,2024-06-05 05:06:56.853
+Created ShoppingCart with Code: 3,2024-06-05 05:06:56.866
+Updated ShoppingCart with Code: 1,2024-06-05 05:06:56.869
+Retrieved brand: BrandA,2024-06-05 05:13:18.064
+Retrieved brand: BrandA,2024-06-05 05:13:18.072
+Retrieved brand: BrandA,2024-06-05 05:13:18.074
+Updated PetFood with ID: PF001,2024-06-05 05:13:18.077
+Updated PetFood with ID: PF002,2024-06-05 05:13:18.078
+Updated PetFood with ID: PF003,2024-06-05 05:13:18.079
+Updated PetFood with ID: PF004,2024-06-05 05:13:18.079
+Created Fish: Goldfish,2024-06-05 05:13:18.091
+Updated Fish with ID: 1,2024-06-05 05:13:18.094
+Created ShoppingCart with Code: 4,2024-06-05 05:13:18.099
+Updated ShoppingCart with Code: 1,2024-06-05 05:13:18.101
+Retrieved brand: BrandA,2024-06-05 05:16:01.865
+Retrieved brand: BrandA,2024-06-05 05:16:01.874
+Retrieved brand: BrandA,2024-06-05 05:16:01.877
+Updated PetFood with ID: PF001,2024-06-05 05:16:01.88
+Updated PetFood with ID: PF002,2024-06-05 05:16:01.881
+Updated PetFood with ID: PF003,2024-06-05 05:16:01.881
+Updated PetFood with ID: PF004,2024-06-05 05:16:01.882
+Created Fish: Goldfish,2024-06-05 05:16:01.897
+Updated Fish with ID: 1,2024-06-05 05:16:01.899
+Updated ShoppingCart with Code: 3,2024-06-05 05:16:01.913
+Inserted client: John Doe,2024-06-05 05:16:01.925
+Retrieved brand: BrandA,2024-06-05 05:17:59.979
+Retrieved brand: BrandA,2024-06-05 05:17:59.987
+Retrieved brand: BrandA,2024-06-05 05:17:59.99
+Updated PetFood with ID: PF001,2024-06-05 05:17:59.992
+Updated PetFood with ID: PF002,2024-06-05 05:17:59.993
+Updated PetFood with ID: PF003,2024-06-05 05:17:59.994
+Updated PetFood with ID: PF004,2024-06-05 05:17:59.994
+Created Fish: Goldfish,2024-06-05 05:18:00.01
+Updated Fish with ID: 1,2024-06-05 05:18:00.013
+Updated ShoppingCart with Code: 3,2024-06-05 05:18:00.03
+Inserted client: John Doe,2024-06-05 05:18:00.035
+Retrieved brand: BrandA,2024-06-05 05:18:12.934
+Retrieved brand: BrandA,2024-06-05 05:18:12.944
+Retrieved brand: BrandA,2024-06-05 05:18:12.948
+Updated PetFood with ID: PF001,2024-06-05 05:18:12.95
+Updated PetFood with ID: PF002,2024-06-05 05:18:12.951
+Updated PetFood with ID: PF003,2024-06-05 05:18:12.952
+Updated PetFood with ID: PF004,2024-06-05 05:18:12.952
+Created Fish: Goldfish,2024-06-05 05:18:12.957
+Updated Fish with ID: 1,2024-06-05 05:18:12.96
+Updated ShoppingCart with Code: 3,2024-06-05 05:18:12.971
+Inserted client: John Doe,2024-06-05 05:18:12.983
+Retrieved brand: BrandA,2024-06-05 05:21:40.595
+Retrieved brand: BrandA,2024-06-05 05:21:40.605
+Retrieved brand: BrandA,2024-06-05 05:21:40.609
+Updated PetFood with ID: PF001,2024-06-05 05:21:40.611
+Updated PetFood with ID: PF002,2024-06-05 05:21:40.612
+Updated PetFood with ID: PF003,2024-06-05 05:21:40.613
+Updated PetFood with ID: PF004,2024-06-05 05:21:40.614
+Created Fish: Goldfish,2024-06-05 05:21:40.63
+Updated Fish with ID: 1,2024-06-05 05:21:40.633
+Updated ShoppingCart with Code: 3,2024-06-05 05:21:40.654
+Inserted client: John Doe,2024-06-05 05:21:40.658
+Retrieved brand: BrandA,2024-06-05 10:40:22.857
+Retrieved brand: BrandA,2024-06-05 10:40:22.866
+Retrieved brand: BrandA,2024-06-05 10:40:22.87
+Updated PetFood with ID: PF001,2024-06-05 10:40:22.873
+Updated PetFood with ID: PF002,2024-06-05 10:40:22.874
+Updated PetFood with ID: PF003,2024-06-05 10:40:22.874
+Updated PetFood with ID: PF004,2024-06-05 10:40:22.875
+Created Fish: Goldfish,2024-06-05 10:40:22.881
+Updated Fish with ID: 1,2024-06-05 10:40:22.884
+Updated ShoppingCart with Code: 3,2024-06-05 10:40:22.907
+Inserted client: John Doe,2024-06-05 10:40:22.913
+Retrieved brand: BrandA,2024-06-05 10:58:33.123
+Retrieved brand: BrandA,2024-06-05 10:58:33.135
+Retrieved brand: BrandA,2024-06-05 10:58:33.141
+Updated PetFood with ID: PF001,2024-06-05 10:58:33.143
+Updated PetFood with ID: PF002,2024-06-05 10:58:33.144
+Updated PetFood with ID: PF003,2024-06-05 10:58:33.145
+Updated PetFood with ID: PF004,2024-06-05 10:58:33.145
+Created Fish: Goldfish,2024-06-05 10:58:33.15
+Updated Fish with ID: 1,2024-06-05 10:58:33.152
+Updated ShoppingCart with Code: 3,2024-06-05 10:58:33.173
+Inserted client: John Doe,2024-06-05 10:58:33.178
+Retrieved brand: BrandA,2024-06-05 11:04:08.462
+Retrieved brand: BrandA,2024-06-05 11:04:08.471
+Retrieved brand: BrandA,2024-06-05 11:04:08.475
+Updated PetFood with ID: PF001,2024-06-05 11:04:08.477
+Updated PetFood with ID: PF002,2024-06-05 11:04:08.478
+Updated PetFood with ID: PF003,2024-06-05 11:04:08.479
+Updated PetFood with ID: PF004,2024-06-05 11:04:08.479
+Created Fish: Goldfish,2024-06-05 11:04:08.483
+Updated Fish with ID: 1,2024-06-05 11:04:08.486
+Retrieved brand: BrandA,2024-06-05 11:04:08.499
+Retrieved brand: BrandA,2024-06-05 11:04:08.506
+Retrieved brand: BrandA,2024-06-05 11:04:08.511
+Retrieved brand: BrandA,2024-06-05 11:04:08.513
+Updated ShoppingCart with Code: 3,2024-06-05 11:04:08.524
+Inserted client: John Doe,2024-06-05 11:04:08.528
+Retrieved brand: BrandA,2024-06-05 11:05:03.588
+Retrieved brand: BrandA,2024-06-05 11:05:03.597
+Retrieved brand: BrandA,2024-06-05 11:05:03.6
+Updated PetFood with ID: PF001,2024-06-05 11:05:03.603
+Updated PetFood with ID: PF002,2024-06-05 11:05:03.604
+Updated PetFood with ID: PF003,2024-06-05 11:05:03.605
+Updated PetFood with ID: PF004,2024-06-05 11:05:03.605
+Created Fish: Goldfish,2024-06-05 11:05:03.61
+Updated Fish with ID: 1,2024-06-05 11:05:03.613
+Retrieved brand: BrandA,2024-06-05 11:05:03.617
+Retrieved brand: BrandA,2024-06-05 11:05:03.618
+Retrieved brand: BrandA,2024-06-05 11:05:03.623
+Retrieved brand: BrandA,2024-06-05 11:05:03.624
+Updated ShoppingCart with Code: 3,2024-06-05 11:05:03.637
+Retrieved brand: BrandA,2024-06-05 11:05:03.639
+Retrieved brand: BrandA,2024-06-05 11:05:03.64
+Inserted client: John Doe,2024-06-05 11:05:03.645
+Retrieved brand: BrandA,2024-06-05 11:08:10.339
+Retrieved brand: BrandA,2024-06-05 11:08:10.348
+Retrieved brand: BrandA,2024-06-05 11:08:10.352
+Updated PetFood with ID: PF001,2024-06-05 11:08:10.355
+Updated PetFood with ID: PF002,2024-06-05 11:08:10.355
+Updated PetFood with ID: PF003,2024-06-05 11:08:10.356
+Updated PetFood with ID: PF004,2024-06-05 11:08:10.357
+Created Fish: Goldfish,2024-06-05 11:08:10.361
+Updated Fish with ID: 1,2024-06-05 11:08:10.364
+Retrieved brand: BrandA,2024-06-05 11:08:10.369
+Retrieved brand: BrandA,2024-06-05 11:08:10.371
+Retrieved brand: BrandA,2024-06-05 11:08:10.377
+Retrieved brand: BrandA,2024-06-05 11:08:10.379
+Updated ShoppingCart with Code: 3,2024-06-05 11:08:10.394
+Retrieved brand: BrandA,2024-06-05 11:08:10.396
+Retrieved brand: BrandA,2024-06-05 11:08:10.397
+Inserted client: John Doe,2024-06-05 11:08:10.401
+Retrieved brand: BrandA,2024-06-05 11:09:06.621
+Retrieved brand: BrandA,2024-06-05 11:09:06.632
+Retrieved brand: BrandA,2024-06-05 11:09:06.636
+Updated PetFood with ID: PF001,2024-06-05 11:09:06.639
+Updated PetFood with ID: PF002,2024-06-05 11:09:06.64
+Updated PetFood with ID: PF003,2024-06-05 11:09:06.641
+Updated PetFood with ID: PF004,2024-06-05 11:09:06.642
+Created Fish: Goldfish,2024-06-05 11:09:06.658
+Updated Fish with ID: 1,2024-06-05 11:09:06.662
+Retrieved brand: BrandA,2024-06-05 11:09:06.667
+Retrieved brand: BrandA,2024-06-05 11:09:06.669
+Retrieved brand: BrandA,2024-06-05 11:09:06.673
+Retrieved brand: BrandA,2024-06-05 11:09:06.674
+Updated ShoppingCart with Code: 3,2024-06-05 11:09:06.687
+Retrieved brand: BrandA,2024-06-05 11:09:06.689
+Retrieved brand: BrandA,2024-06-05 11:09:06.691
+Retrieved client: John Doe,2024-06-05 11:09:06.694
+Retrieved client: John Doe,2024-06-05 11:09:06.702
+Updated client address: John Doe,2024-06-05 11:09:06.703
+Retrieved client: John Doe,2024-06-05 11:09:06.703
+Retrieved brand: BrandA,2024-06-05 11:10:02.216
+Retrieved brand: BrandA,2024-06-05 11:10:02.226
+Retrieved brand: BrandA,2024-06-05 11:10:02.23
+Updated PetFood with ID: PF001,2024-06-05 11:10:02.233
+Updated PetFood with ID: PF002,2024-06-05 11:10:02.234
+Updated PetFood with ID: PF003,2024-06-05 11:10:02.235
+Updated PetFood with ID: PF004,2024-06-05 11:10:02.236
+Created Fish: Goldfish,2024-06-05 11:10:02.253
+Updated Fish with ID: 1,2024-06-05 11:10:02.255
+Retrieved brand: BrandA,2024-06-05 11:10:02.26
+Retrieved brand: BrandA,2024-06-05 11:10:02.262
+Retrieved brand: BrandA,2024-06-05 11:10:02.268
+Retrieved brand: BrandA,2024-06-05 11:10:02.269
+Updated ShoppingCart with Code: 3,2024-06-05 11:10:02.284
+Retrieved brand: BrandA,2024-06-05 11:10:02.286
+Retrieved brand: BrandA,2024-06-05 11:10:02.287
+Inserted brand: xyz,2024-06-05 13:06:32.512
+Retrieved brand: xyz,2024-06-05 13:06:44.341
+Updated brand factory address: xyz,2024-06-05 13:06:58.479
